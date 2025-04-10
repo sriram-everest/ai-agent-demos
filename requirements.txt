@@ -1,0 +1,5 @@
+pydantic-ai
+python-chess
+PyQt5
+logfire
+rich
