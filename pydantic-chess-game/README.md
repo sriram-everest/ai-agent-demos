@@ -14,7 +14,7 @@ This project demonstrates a multi-agent system where two AI agents play chess ag
 
 - Python 3.8 or higher
 - Ollama server running locally
-- Language models installed in Ollama (gemma:4b and qwen2:7b or similar)
+- Language models installed in Ollama
 
 ## Installation
 
