@@ -33,6 +33,7 @@ This project demonstrates a multi-agent system where two AI agents play chess ag
 
 4. Pull the required models:
    ```
+   ollama pull llama3.1:latest
    ollama pull qwen2.5:7b
    ```
 

@@ -42,7 +42,7 @@ class NoValidMove(BaseModel):
 # Configure Ollama models with models that support OpenAI format
 # Use the same model for both players to avoid compatibility issues
 white_model = OpenAIModel(
-    model_name='qwen2.5:7b',  # Using the model you mentioned works
+    model_name='llama3.1',  # Using the model you mentioned works
     provider=OpenAIProvider(base_url='http://localhost:11434/v1')
 )
 
